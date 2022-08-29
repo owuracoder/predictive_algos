@@ -39,9 +39,9 @@ baseurl: "/predictive_algos" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: https://twitter.com/owura_coder
-    github: https://github.com/owuracoder
-    linkedin: https://www.linkedin.com/in/richard-agyemang
+    twitter: owura_coder
+    github: owuracoder
+    linkedin: richard-agyemang
 
 # Set this to true to get LaTeX math equation support
 use_math: 

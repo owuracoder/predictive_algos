@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-<img src="/images/banner_img2.JPG" alt="richard photo" style="height: 100px; width:100px; border-radius:50%;"/>
+<img src="{{site.baseurl}}/images/banner_img2.JPG" alt="richard photo" style="height: 100px; width:100px; border-radius:50%;"/>
 
 This is me up there 😎. I am super interested in deep learning and blockchain. I absolutely love working with data and building deep learning algorithm to perform magic (at least that is what I call it 🙂). One of my greatest passion is creating tools that is helpful and meaningful to people. I work as a blockchain analyst in a startup. At my work place we develop tools that help in keeping the blockchain clean of bad entities that seek to give bad rep to this beautiful technology.
 
